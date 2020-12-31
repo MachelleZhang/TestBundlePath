@@ -1,0 +1,4 @@
+framework module SecondFramework {
+  header "SecondFramework-Swift.h"
+  requires objc
+}
